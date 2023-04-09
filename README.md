@@ -1,4 +1,4 @@
 # KSS
-Explore the Solar System, in KERBAL style!
+Explore the SFS Solar System, in KERBAL style!
 
 17 fully textured and accurate KSP objects.
